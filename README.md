@@ -82,3 +82,4 @@ The Real-Time Weather Tracker – India provides a comprehensive live view of we
 
 
 OUTPUT:
+<img width="1317" height="742" alt="Image" src="https://github.com/user-attachments/assets/f23e91db-75ec-42e8-a250-f69801d8731a" />
